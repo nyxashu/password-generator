@@ -1,0 +1,17 @@
+Explanation:
+
+generate_password(): This function generates a random password based on the specified length and character types. It uses string module constants to include lowercase, uppercase letters, digits, and symbols.
+
+main(): This function handles user input and calls generate_password() to create and display the password. It also handles basic input validation.
+
+Running the Application:
+
+Save the password_generator.py file.
+
+Open a terminal or command prompt.
+
+Navigate to the directory where password_generator.py is saved.
+
+Run the script using the command: python password_generator.py.
+
+The script will prompt you for password criteria and generate a secure password based on your preferences.
