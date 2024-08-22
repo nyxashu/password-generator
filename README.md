@@ -15,10 +15,10 @@ A simple command-line Password Generator tool built in Python. It allows users t
 <br>
 code<br>
 <br>
-git clone https://github.com/yourusername/password-generator.git<br>
+git clone https://github.com/nyxashu/password-generator.git<br>
 <br>
-**Navigate to the project directory:
-**<br>
+**Navigate to the project directory:**
+<br>
 <br>
  code
 cd password-generator<br>
